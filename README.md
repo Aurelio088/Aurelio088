@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://i.postimg.cc/1zDCh0qD/main-Picture.png" alt="Descrição da imagem" style="border: 3px solid black;"> -->
 
-<a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Aurelio088/Aurelio088" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Hello, I am Aurelio Rodrigues, and I will graduate in June 2024!
