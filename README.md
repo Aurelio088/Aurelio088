@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Aurelio088/Aurelio088" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Hello, I am Aurelio Rodrigues, and I will graduate in June 2024!
+## Hello, I am Aurelio Rodrigues, a passionate junior software developer with a diverse skill set and a relentless commitment to learning. With a background in Aerospace Engineering and ongoing studies in Information Technology: Gaming Experience Development (April 2024), I bring a unique blend of technical expertise and problem-solving skills to the world of software development. My programming journey spans various languages, from C++ and Java to web technologies like HTML/CSS, JavaScript, and ASP.NET. I'm well-versed in software design methodologies and project management, particularly Agile SCRUM. I love working in teams, leading and collaborating effectively to deliver high-quality solutions. Explore my GitHub projects to see my development as a developer.
 
 </div>
 
