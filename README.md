@@ -1,22 +1,3 @@
-### Hi there 👋
-
-<!--
-**Aurelio088/Aurelio088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# portfolio
-
 <div align="center">
 
 <!-- <img src="https://i.postimg.cc/1zDCh0qD/main-Picture.png" alt="Descrição da imagem" style="border: 3px solid black;"> -->
@@ -24,7 +5,13 @@ Here are some ideas to get you started:
 <a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Aurelio088/Aurelio088" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Hello, I am Aurelio Rodrigues, a passionate junior software developer with a diverse skill set and a relentless commitment to learning. With a background in Aerospace Engineering and ongoing studies in Information Technology: Gaming Experience Development (April 2024), I bring a unique blend of technical expertise and problem-solving skills to the world of software development. My programming journey spans various languages, from C++ and Java to web technologies like HTML/CSS, JavaScript, and ASP.NET. I'm well-versed in software design methodologies and project management, particularly Agile SCRUM. I love working in teams, leading and collaborating effectively to deliver high-quality solutions. Explore my GitHub projects to see my development as a developer.
+<!-- ## Hello, I am Aurelio Rodrigues, a passionate junior software developer with a diverse skill set and a relentless commitment to learning. With a background in Aerospace Engineering and ongoing studies in Information Technology: Gaming Experience Development (April 2024), I bring a unique blend of technical expertise and problem-solving skills to the world of software development. My programming journey spans various languages, from C++ and Java to web technologies like HTML/CSS, JavaScript, and ASP.NET. I'm well-versed in software design methodologies and project management, particularly Agile SCRUM. I love working in teams, leading and collaborating effectively to deliver high-quality solutions. Explore my GitHub projects to see my development as a developer. -->
+
+<div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
+  <p style="font-size: 16px; line-height: 1.6;">
+    Hello, I am Aurelio Rodrigues, a passionate junior software developer with a diverse skill set and a relentless commitment to learning. With a background in Aerospace Engineering and ongoing studies in Information Technology: Gaming Experience Development (April 2024), I bring a unique blend of technical expertise and problem-solving skills to the world of software development. My programming journey spans various languages, from C++ and Java to web technologies like HTML/CSS, JavaScript, and ASP.NET. I'm well-versed in software design methodologies and project management, particularly Agile SCRUM. I love working in teams, leading and collaborating effectively to deliver high-quality solutions. Explore my GitHub projects to see my development as a developer.
+  </p>
+</div>
 
 </div>
 
