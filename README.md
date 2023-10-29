@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="https://i.postimg.cc/1zDCh0qD/main-Picture.png" alt="Descrição da imagem" style="border: 3px solid black;"> -->
-
 <a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Aurelio088/Aurelio088" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
@@ -20,7 +18,7 @@
 ##
 
 <div style="display: inline_block" align="center"><h4>Linguagens e Frameworks:</h4>
-<br><br>
+<br>
   
   <img align="center" alt="Aurelio-cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Aurelio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,7 +36,7 @@
 ##
 
 <div style="display: inline_block" align="center"><h4>Studying now!</h4>
-<br><br> 
+<br>
   <img align="center" alt="Aurelio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Aurelio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Aurelio-aspnet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
@@ -48,7 +46,9 @@
 ---
 
 <div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
-  <h2>Study and Achievements</h2>
+  <h2>
+    <a href="https://github.com/Aurelio088/Study-InSight-NASA">Study and Achievements</a>
+  </h2>
   <h4>
     Paper: <a href="https://github.com/Aurelio088/Study-InSight-NASA/blob/main/Paper%20and%20Presentation/Paper_InSight.pdf" target="_blank">Project Insight: Direct and Inverse Dynamic Model</a>
 
@@ -60,10 +60,10 @@
     The results of our study confirmed that the interference caused by Martian winds in seismic prospecting, especially in high-frequency bands, met the required standards. We also explored the influence of various input parameters on mechanical noise responses, contributing to the field's knowledge.
   </p>
   <p style="font-size: 16px; line-height: 1.6;">
-    This research was part of the **NASA** Discovery Program mission InSight, designed to better understand the planet's evolution, interior structure, and seismic processes. The mission used the Seismic Experiment for Internal Structures (SEIS) among other instruments, and my work directly contributed to its success.
+    This research was part of the <strong>NASA</strong> Discovery Program mission InSight, designed to better understand the planet's evolution, interior structure, and seismic processes. The mission used the Seismic Experiment for Internal Structures (SEIS) among other instruments, and my work directly contributed to its success.
   </p>
   <p style="font-size: 16px; line-height: 1.6;">
-    If you want to know more about **NASA InSight Mission**, please visit the <a href="https://mars.nasa.gov/insight/" target="_blank">Official NASA InSight website</a>.
+    If you want to know more about <strong>NASA InSight Mission</strong>, please visit the <a href="https://mars.nasa.gov/insight/" target="_blank">Official NASA InSight website</a>.
   </p>
 </div>
 
