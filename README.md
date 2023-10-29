@@ -33,8 +33,15 @@
   <img align="center" alt="Aurelio-sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Aurelio-mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Aurelio-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- 
 </div>
+
+<div style="display: inline_block" align="center">Studying now!
+<br><br> 
+  <img align="center" alt="Aurelio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Aurelio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+---
 
 <div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
   <h2>Study and Achievements</h2>
@@ -43,24 +50,17 @@
 
   </h4>
   <p style="font-size: 16px; line-height: 1.6;">
-    I'm proud to share my research and achievements in the field of space exploration. In 2016, as part of the NASA InSight program, I conducted a study that had a significant impact on understanding Mars' interior structure and seismic activity. The study, Project Insight: Direct and Inverse Dynamic Model, focused on the influence of mechanical noise caused by Martian winds on a lander, which could interfere with seismological experiments on the planet. Using dynamic vibration modeling of flexible appendages, I predicted the magnitude of forces acting on the Martian ground through the lander's feet. We also developed a model to represent and calculate the stress applied to the lander feet, considering Martian regolith properties.
+    As a student at École nationale supérieure de l'aéronautique et de l'espace (ISAE-SUPAERO), Toulouse/France (2015/2016), I participated in a study to understand the influence of Martian winds on the solar panels of the InSight program's lander. The study, called Project Insight: Direct and Inverse Dynamic Model, focused on the influence of mechanical noise caused by Martian winds on a lander, which could interfere with seismological experiments on the planet. Using dynamic vibration modeling of flexible appendages, I predicted the magnitude of forces acting on the Martian ground through the lander's feet. We also developed a model to represent and calculate the stress applied to the lander feet, considering Martian regolith properties.
   </p>
   <p style="font-size: 16px; line-height: 1.6;">
     The results of our study confirmed that the interference caused by Martian winds in seismic prospecting, especially in high-frequency bands, met the required standards. We also explored the influence of various input parameters on mechanical noise responses, contributing to the field's knowledge.
   </p>
   <p style="font-size: 16px; line-height: 1.6;">
-    This research was part of the NASA Discovery Program mission InSight, designed to better understand the planet's evolution, interior structure, and seismic processes. The mission used the Seismic Experiment for Internal Structures (SEIS) among other instruments, and my work directly contributed to its success.
+    This research was part of the **NASA** Discovery Program mission InSight, designed to better understand the planet's evolution, interior structure, and seismic processes. The mission used the Seismic Experiment for Internal Structures (SEIS) among other instruments, and my work directly contributed to its success.
   </p>
   <p style="font-size: 16px; line-height: 1.6;">
-    If you want to know more about NASA InSight mission, please visit the <a href="https://mars.nasa.gov/insight/" target="_blank">Official NASA InSight website</a>.
+    If you want to know more about **NASA InSight Mission**, please visit the <a href="https://mars.nasa.gov/insight/" target="_blank">Official NASA InSight website</a>.
   </p>
 </div>
 
 ##
-
-<div style="display: inline_block" align="center">Studying now!
-<br><br> 
-  <img align="center" alt="Aurelio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Aurelio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-</div>
