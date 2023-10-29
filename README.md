@@ -44,13 +44,15 @@
   </h4>
   <p style="font-size: 16px; line-height: 1.6;">
     I'm proud to share my research and achievements in the field of space exploration. In 2016, as part of the NASA InSight program, I conducted a study that had a significant impact on understanding Mars' interior structure and seismic activity. The study, Project Insight: Direct and Inverse Dynamic Model, focused on the influence of mechanical noise caused by Martian winds on a lander, which could interfere with seismological experiments on the planet. Using dynamic vibration modeling of flexible appendages, I predicted the magnitude of forces acting on the Martian ground through the lander's feet. We also developed a model to represent and calculate the stress applied to the lander feet, considering Martian regolith properties.
-
+  </p>
+  <p style="font-size: 16px; line-height: 1.6;">
     The results of our study confirmed that the interference caused by Martian winds in seismic prospecting, especially in high-frequency bands, met the required standards. We also explored the influence of various input parameters on mechanical noise responses, contributing to the field's knowledge.
-
+  </p>
+  <p style="font-size: 16px; line-height: 1.6;">
     This research was part of the NASA Discovery Program mission InSight, designed to better understand the planet's evolution, interior structure, and seismic processes. The mission used the Seismic Experiment for Internal Structures (SEIS) among other instruments, and my work directly contributed to its success.
-
+  </p>
+  <p style="font-size: 16px; line-height: 1.6;">
     If you want to know more about NASA InSight mission, please visit the <a href="https://mars.nasa.gov/insight/" target="_blank">Official NASA InSight website</a>.
-
   </p>
 </div>
 
