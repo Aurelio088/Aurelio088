@@ -39,7 +39,8 @@
 <div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
   <h2>Study and Achievements</h2>
   <h4>
-    Paper: [Project Insight: Direct and Inverse Dynamic Model](https://github.com/Aurelio088/Study-InSight-NASA/Study-InSight-NASA/Paper%20and%20Presentation/Paper_InSight.pdf)
+    Paper: <a href="https://github.com/Aurelio088/Study-InSight-NASA/blob/main/Paper%20and%20Presentation/Paper_InSight.pdf" target="_blank">Project Insight: Direct and Inverse Dynamic Model</a>
+
   </h4>
   <p style="font-size: 16px; line-height: 1.6;">
     I'm proud to share my research and achievements in the field of space exploration. In 2016, as part of the NASA InSight program, I conducted a study that had a significant impact on understanding Mars' interior structure and seismic activity. The study, Project Insight: Direct and Inverse Dynamic Model, focused on the influence of mechanical noise caused by Martian winds on a lander, which could interfere with seismological experiments on the planet. Using dynamic vibration modeling of flexible appendages, I predicted the magnitude of forces acting on the Martian ground through the lander's feet. We also developed a model to represent and calculate the stress applied to the lander feet, considering Martian regolith properties.
