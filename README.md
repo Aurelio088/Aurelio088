@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href = "mailto:aureliorodrigues20@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Aurelio088/Aurelio088" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aurelio-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
   <p style="font-size: 16px; line-height: 1.6;">
